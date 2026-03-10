@@ -1,0 +1,9 @@
+ecommerce-testing-project
+│
+├── test-plan.md
+├── test-cases.xlsx
+├── bug-reports.md
+├── test-summary.md
+└── screenshots
+      ├── bug1.png
+      ├── bug2.png
